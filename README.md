@@ -23,6 +23,10 @@ Here are some ideas to get you started:
 나를 소개하는 3-5 문장. <br>
 나를 소개하는 3-5 문장. <br>
 
+---
+
+<img src = "https://github.com/da092511/da092511/blob/main/profile/0109254068728.JPG" width = "100" heigh = "200"/>
+강다연
 
 ---
 
