@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ---
 
 ### 나를 소개하는 한 문장 
@@ -40,7 +41,9 @@ Here are some ideas to get you started:
 
 ### 참여 프로젝트 
 1. [의료용 디지털 영상 DICOM 활용 웹 뷰어 프로젝트](about:blank)
-<!--2. [프로젝트명2](테스크툴주소)
+2. [<img src = "https://i9.ytimg.com/vi/LMsK1lzz-DE/mq1.jpg?sqp=CMDJj7AG-oaymwEmCMACELQB8quKqQMa8AEB-AGaBYAC4AOKAgwIABABGGUgZShlMA8=&rs=AOn4CLA4Tr5D5CZMswRUmSGXvdsQhhwjVQ" width = "100" heigh = "200"/>](https://youtu.be/LMsK1lzz-DE) 
+  좀비 게임
+<!--
 3. [프로젝트명3](깃헙리포지토리주소)
 4. [프로젝트명4](배포링크) -->
 
