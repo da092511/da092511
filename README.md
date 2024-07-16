@@ -51,5 +51,15 @@ Here are some ideas to get you started:
 ---
 
 ### 보유 기술
-
-
+* Java
+* Spring
+* Srping Boot
+* Spring Data JPA
+* Spring Data Redis
+* JSP
+* JSTL
+* jQuery
+* HTML/CSS
+* Javascript
+* MySQL
+* Oracle
